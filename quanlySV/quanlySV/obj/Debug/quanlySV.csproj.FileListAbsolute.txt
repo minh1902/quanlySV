@@ -1,0 +1,10 @@
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\bin\Debug\quanlySV.exe.config
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\bin\Debug\quanlySV.exe
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\bin\Debug\quanlySV.pdb
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\obj\Debug\quanlySV.csprojAssemblyReference.cache
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\obj\Debug\quanlySV.Form1.resources
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\obj\Debug\quanlySV.Properties.Resources.resources
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\obj\Debug\quanlySV.csproj.GenerateResource.cache
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\obj\Debug\quanlySV.csproj.CoreCompileInputs.cache
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\obj\Debug\quanlySV.exe
+F:\Users\ADMIN\source\repos\quanlySV\quanlySV\obj\Debug\quanlySV.pdb
